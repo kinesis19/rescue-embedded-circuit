@@ -1,9 +1,48 @@
 <mxfile host="app.diagrams.net">
   <diagram name="페이지-1" id="qL_gYtWck_EUVrJYukJZ">
-    <mxGraphModel>
+    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZyB_0SkuKPrTco39PcU2-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="360" width="440" x="200" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyB_0SkuKPrTco39PcU2-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Laptop&lt;div&gt;(Speaker)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyB_0SkuKPrTco39PcU2-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Operator" vertex="1">
+          <mxGeometry height="30" width="60" x="310" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyB_0SkuKPrTco39PcU2-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Mobile Base" vertex="1">
+          <mxGeometry height="30" width="80" x="500" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyB_0SkuKPrTco39PcU2-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mic" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyB_0SkuKPrTco39PcU2-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mic" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyB_0SkuKPrTco39PcU2-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Speaker" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyB_0SkuKPrTco39PcU2-7" edge="1" parent="1" source="ZyB_0SkuKPrTco39PcU2-5" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF0000);" target="ZyB_0SkuKPrTco39PcU2-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="430" as="sourcePoint" />
+            <mxPoint x="450" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZyB_0SkuKPrTco39PcU2-8" edge="1" parent="1" source="ZyB_0SkuKPrTco39PcU2-4" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF0000);" target="ZyB_0SkuKPrTco39PcU2-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="490" y="400" as="sourcePoint" />
+            <mxPoint x="410" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZyB_0SkuKPrTco39PcU2-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="*2026&lt;div&gt;(new)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="210" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyB_0SkuKPrTco39PcU2-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;" value="2-WAY AUDIO&amp;nbsp;ACUITY" vertex="1">
+          <mxGeometry height="80" width="264" x="290" y="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
