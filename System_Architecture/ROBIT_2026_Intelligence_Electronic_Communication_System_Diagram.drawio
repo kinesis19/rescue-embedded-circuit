@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
   <diagram name="페이지-1" id="wDtLSLyNoFTAVb2D_Vc6">
-    <mxGraphModel dx="2892" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2135" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -318,15 +318,6 @@
             <mxPoint x="-110" y="739.87" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="59_36k3mSK5EQi52JUH6-26" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#e51400;strokeColor=light-dark(#B20000,#CC0000);entryX=1;entryY=0.5;entryDx=0;entryDy=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="-40" y="917.5" />
-            </Array>
-            <mxPoint x="-40" y="827.5" as="sourcePoint" />
-            <mxPoint x="-108.75" y="917.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="59_36k3mSK5EQi52JUH6-27" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#e51400;strokeColor=light-dark(#B20000,#CC0000);entryX=0.991;entryY=0.335;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="60" y="1009.58" as="sourcePoint" />
@@ -361,6 +352,21 @@
             </Array>
             <mxPoint x="230" y="735" as="sourcePoint" />
             <mxPoint x="180" y="1005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E1RFqBqkIISuQ6wMZfMJ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DC-DC Converter&lt;div&gt;(48V to 24V)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="120" x="60" y="885" as="geometry" />
+        </mxCell>
+        <mxCell id="E1RFqBqkIISuQ6wMZfMJ-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#e51400;strokeColor=light-dark(#B20000,#CC0000);entryX=0.991;entryY=0.335;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="61.25" y="919.7" as="sourcePoint" />
+            <mxPoint x="-108.75" y="919.7" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E1RFqBqkIISuQ6wMZfMJ-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#e51400;strokeColor=light-dark(#B20000,#CC0000);entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="E1RFqBqkIISuQ6wMZfMJ-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="230" y="920" as="sourcePoint" />
+            <mxPoint x="180" y="917.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
