@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="페이지-1" id="LX1et8sxftvEdyDPG1Wd">
-    <mxGraphModel dx="1178" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -302,6 +302,36 @@
         </mxCell>
         <mxCell id="eqO4EKmQiNtrXOi7GIpY-106" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Switch #2" vertex="1">
           <mxGeometry height="60" width="70" x="1121" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="eqO4EKmQiNtrXOi7GIpY-107" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#e51400;strokeColor=light-dark(#B20000,#CC0000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1120" y="719.86" as="sourcePoint" />
+            <mxPoint x="1080" y="719.86" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eqO4EKmQiNtrXOi7GIpY-108" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#e51400;strokeColor=light-dark(#B20000,#CC0000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1120" y="899.86" as="sourcePoint" />
+            <mxPoint x="1080" y="899.86" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eqO4EKmQiNtrXOi7GIpY-109" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#e51400;strokeColor=light-dark(#B20000,#CC0000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1320" y="720" as="sourcePoint" />
+            <mxPoint x="1191" y="719.76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eqO4EKmQiNtrXOi7GIpY-110" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#e51400;strokeColor=light-dark(#B20000,#CC0000);entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="eqO4EKmQiNtrXOi7GIpY-106" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1320" y="900" />
+            </Array>
+            <mxPoint x="1320" y="520.12" as="sourcePoint" />
+            <mxPoint x="1271" y="919.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eqO4EKmQiNtrXOi7GIpY-111" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Support: Hot-Swap feature" vertex="1">
+          <mxGeometry height="30" width="155" x="1437.5" y="650" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
