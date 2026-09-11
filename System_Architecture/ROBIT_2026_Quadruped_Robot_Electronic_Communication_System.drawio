@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="페이지-1" id="LX1et8sxftvEdyDPG1Wd">
-    <mxGraphModel dx="808" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="566" dy="316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -183,10 +183,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eqO4EKmQiNtrXOi7GIpY-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DC-DC Converter #1" vertex="1">
-          <mxGeometry height="60" width="90" x="1080" y="580" as="geometry" />
+          <mxGeometry height="60" width="120" x="1080" y="580" as="geometry" />
         </mxCell>
-        <mxCell id="eqO4EKmQiNtrXOi7GIpY-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#FFFFFF);labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=0" value="48V to 19V, 10A" vertex="1">
-          <mxGeometry height="30" width="60" x="1095" y="550" as="geometry" />
+        <mxCell id="eqO4EKmQiNtrXOi7GIpY-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#FFFFFF);labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=0" value="48V to 19V | 10A" vertex="1">
+          <mxGeometry height="20" width="105" x="1080" y="560" as="geometry" />
         </mxCell>
         <mxCell id="eqO4EKmQiNtrXOi7GIpY-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ASUS NUC&lt;div&gt;15 Pro&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="90" x="910" y="580" as="geometry" />
@@ -195,10 +195,10 @@
           <mxGeometry height="20" width="60" x="925" y="560" as="geometry" />
         </mxCell>
         <mxCell id="eqO4EKmQiNtrXOi7GIpY-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Livox MID-360" vertex="1">
-          <mxGeometry height="60" width="90" x="910" y="680" as="geometry" />
+          <mxGeometry height="60" width="90" x="910" y="670" as="geometry" />
         </mxCell>
         <mxCell id="eqO4EKmQiNtrXOi7GIpY-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#FFFFFF);labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=0" value="19V | ~2A" vertex="1">
-          <mxGeometry height="20" width="60" x="925" y="660" as="geometry" />
+          <mxGeometry height="20" width="60" x="925" y="650" as="geometry" />
         </mxCell>
         <mxCell id="eqO4EKmQiNtrXOi7GIpY-70" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#e51400;strokeColor=light-dark(#B20000,#CC0000);exitX=0;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -234,6 +234,45 @@
             <mxPoint x="1370" y="340" as="sourcePoint" />
             <mxPoint x="1320" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eqO4EKmQiNtrXOi7GIpY-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DC-DC Converter #2" vertex="1">
+          <mxGeometry height="60" width="120" x="1080" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="eqO4EKmQiNtrXOi7GIpY-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#FFFFFF);labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=0" value="48V to 12V | 10A" vertex="1">
+          <mxGeometry height="20" width="105" x="1087.5" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="eqO4EKmQiNtrXOi7GIpY-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ASUS Router" vertex="1">
+          <mxGeometry height="60" width="90" x="910" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="eqO4EKmQiNtrXOi7GIpY-79" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#FFFFFF);labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=0" value="12V | ~3A" vertex="1">
+          <mxGeometry height="20" width="60" x="925" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="eqO4EKmQiNtrXOi7GIpY-81" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#e51400;strokeColor=light-dark(#B20000,#CC0000);exitX=0;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1080" y="790.0300000000001" as="sourcePoint" />
+            <mxPoint x="1000" y="789.83" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eqO4EKmQiNtrXOi7GIpY-83" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#e51400;strokeColor=light-dark(#B20000,#CC0000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1240" y="790" />
+            </Array>
+            <mxPoint x="1240" y="610" as="sourcePoint" />
+            <mxPoint x="1201" y="789.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eqO4EKmQiNtrXOi7GIpY-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="IMU" vertex="1">
+          <mxGeometry height="60" width="90" x="740" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="eqO4EKmQiNtrXOi7GIpY-85" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#e51400;strokeColor=light-dark(#B20000,#CC0000);exitX=0;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="910" y="610" as="sourcePoint" />
+            <mxPoint x="830" y="609.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eqO4EKmQiNtrXOi7GIpY-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#FFFFFF);labelBackgroundColor=none;labelBorderColor=none;textShadow=0;fontStyle=0" value="5V" vertex="1">
+          <mxGeometry height="20" width="60" x="755" y="560" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
