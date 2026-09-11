@@ -1,9 +1,48 @@
 <mxfile host="app.diagrams.net">
   <diagram name="페이지-1" id="LX1et8sxftvEdyDPG1Wd">
-    <mxGraphModel>
+    <mxGraphModel dx="1414" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eqO4EKmQiNtrXOi7GIpY-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="370" width="230" x="1410" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="eqO4EKmQiNtrXOi7GIpY-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="150" width="210" x="1420" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="eqO4EKmQiNtrXOi7GIpY-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=36;" value="2026 Quadruped Robot 전기 통신 시스템 다이어그램&lt;div&gt;(2026.09.11. / v1)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="1000" x="640" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eqO4EKmQiNtrXOi7GIpY-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="6S LiPo #1&lt;div&gt;7000mAh, 100C&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1500" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="eqO4EKmQiNtrXOi7GIpY-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="6S LiPo #2&lt;div&gt;7000mAh, 100C&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1500" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="eqO4EKmQiNtrXOi7GIpY-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="12S&lt;div&gt;BMS&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="60" x="1430" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="eqO4EKmQiNtrXOi7GIpY-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Battery Kit #1" vertex="1">
+          <mxGeometry height="30" width="80" x="1485" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="eqO4EKmQiNtrXOi7GIpY-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="150" width="210" x="1420" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="eqO4EKmQiNtrXOi7GIpY-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="6S LiPo #1&lt;div&gt;7000mAh, 100C&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1500" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="eqO4EKmQiNtrXOi7GIpY-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="6S LiPo #2&lt;div&gt;7000mAh, 100C&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1500" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="eqO4EKmQiNtrXOi7GIpY-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="12S&lt;div&gt;BMS&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="60" x="1430" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="eqO4EKmQiNtrXOi7GIpY-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Battery Kit #2" vertex="1">
+          <mxGeometry height="30" width="80" x="1485" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="eqO4EKmQiNtrXOi7GIpY-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Battery System" vertex="1">
+          <mxGeometry height="30" width="120" x="1465" y="250" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
